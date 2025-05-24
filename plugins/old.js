@@ -64,7 +64,7 @@ const menu = async (m, Matrix) => {
   const mode = config.MODE === 'public' ? 'public' : 'private';
   const pref = config.PREFIX;
 
-  const validCommands = ['inconnu', 'menu', 'bot'];
+  const validCommands = ['professeur', 'menu', 'bot'];
 
   if (validCommands.includes(cmd)) {
     const str = `
