@@ -31,7 +31,7 @@ const alive = async (m, gss) => {
 
     // Envoi du message avec l'image et le texte
     await gss.sendMessage(m.from, {
-      image: { url: 'https://files.catbox.moe/voqg33.jpg' }, // Remplacer par ton image si nécessaire
+      image: { url: 'https://files.catbox.moe/82nyf5.jpg' }, // Remplacer par ton image si nécessaire
       caption: aliveMessage,
       contextInfo: {
         mentionedJid: [m.sender],
