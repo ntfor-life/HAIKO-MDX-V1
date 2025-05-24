@@ -30,7 +30,7 @@ const handleTakeCommand = async (m, gss) => {
     if (!mediaBuffer) throw new Error('Failed to download media.');
 
     await gss.sendImageAsSticker(m.from, mediaBuffer, m, { packname: global.packname, author: global.author });
-    m.reply('KRÈK OU CREATED SUCCESSFULLY !');
+    m.reply('HAIKO-MDX-V1 MEILLEUR BOT DE TON LES TEMPS!!');
   } catch (error) {
     m.reply(`Error: ${error.message}`);
   }
