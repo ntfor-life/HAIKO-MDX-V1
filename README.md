@@ -9,12 +9,12 @@
 
 ---
 
-<h1 align="center">WHA BOT SIMPLE BY DEV PROFESSEUR
+<h1 align="center">WHA BOT SIMPLE
 
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/voqg33.jpg" width="700"/>
+  <img src="https://files.catbox.moe/82nyf5.jpg" width="700"/>
 </p>
 
 ---
