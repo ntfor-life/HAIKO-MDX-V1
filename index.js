@@ -116,20 +116,20 @@ async function start() {
                 if (initialConnection) {
                     console.log(chalk.green("Connected Successfully HAIKO-MDX ♻️"));
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/voqg33.jpg" }, 
+                        image: { url: "https://files.catbox.moe/rlk9wm.jpg" }, 
                         caption: `╓─────────────────╖
 │WELCOME TO HAIKO-MDX
 ╙─────────────────╜
-*🧸 Hello there User! 💱*
+*⚠️ Hello there User! 🤖*
 
 ════════════════════
-👻 CHANNEL : https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40
+♻️ CHANNEL : https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40
 
 ═══════════════════
-*🦞 Your Prefix:* = *${prefix}*
+*🪀 Your Prefix:* = *${prefix}*
 ═══════════════════
 
-😈 REPO : https://github.com/PROFESSEURMDX/HAIKO-MDX-V1 
+💬 REPO : https://github.com/PROFESSEURMDX/HAIKO-MDX-V1 
 
 ╚══════════════════╝
        © DEV PROFESSEUR`
