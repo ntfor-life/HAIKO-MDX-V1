@@ -23,7 +23,7 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟏",
-  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/82nyf5.jpg",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/wio44d.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO HAIKO-MDX-V1",
   OWNER_NAME: process.env.OWNER_NAME || "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "529633982655",
